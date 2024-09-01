@@ -1,4 +1,4 @@
-#TV Cable Management: SQL Database Project
+# TV Cable Management: SQL Database Project
 
 This project demonstrates the setup and management of a SQL database for a subscription-based service, including tables for customers, payments, subscriptions, packages, channels, and their relationships. The database includes various SQL queries to retrieve and manipulate data based on different conditions.
 
